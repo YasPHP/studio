@@ -33,7 +33,7 @@ We're always interested in extending this list together with our community so if
 ### State-of-the-art biofeedback
 
 Create immersive end-to-end experiences from protocol to visualization. The Studio comes with 4 pre-built games in which you can control the speed of a car, the weather, screen effects and volume. You can also choose to play videos or audio files and control their brightness and volume for personalized neurofeedback training. 
-And if you want to go one step further, you can also make your application control your Unity game, your favorite audio production, or your visualizer of choice via the Open Sound Control protocol. The only limit is our imagination!
+And if you want to go one step further, you can also make your application control your Unity game, your favorite audio production, or your visualizer of choice via the Open Sound Control protocol. The only limit is our imagination! How does neuromore differ from maxMSP?
 
 ### Visualize your data - From data to insights in real-time
 
